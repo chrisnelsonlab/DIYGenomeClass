@@ -534,7 +534,7 @@ function animate(){
 		//PLAYER
 		P1.update()
 		P1.draw();
-		P1.hunger = P1.hunger -0.2;
+		P1.hunger = P1.hunger -0.15;
 		
 		
 		
