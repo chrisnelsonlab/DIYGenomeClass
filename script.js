@@ -646,5 +646,6 @@ function animate(){
 
 
 //Begin main
+console.log('i fixed it')
 init();
 animate();
